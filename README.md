@@ -68,5 +68,6 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 
 #### ✅ Ejemplo 1 – Mostrar países
 **Entrada (usuario): 1**
+
 <img width="843" height="437" alt="imagen" src="https://github.com/user-attachments/assets/0990559a-6f13-4a97-92dc-9ce45a50510c" />
 
