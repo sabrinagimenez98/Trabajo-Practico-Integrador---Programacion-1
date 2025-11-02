@@ -43,4 +43,33 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 
 ---
 
-### 📁 Estructura del proyecto
+### 📁 Instrucciones de uso
+
+---
+
+### ✅ Instrucciones de uso
+
+1. **Requisitos**
+   - Python **3.10+** (necesario porque se usa `match/case`)
+   - Librerías estándar de Python (no requiere instalación extra)
+
+2. **Ejecución**
+   - Abrir la carpeta del proyecto
+   - Ejecutar el archivo principal:
+     ```bash
+     python PRACTICA_INTEGRADO.py
+     ```
+   - Se mostrará un menú numérico con opciones.
+
+3. **Archivo CSV**
+   - No es necesario crearlo manualmente.
+   - Si no existe `paises.csv`, el programa lo inicializa automáticamente.
+   - Las modificaciones (agregar, eliminar, ordenar) quedan guardadas en el archivo.
+
+---
+
+### 🧪 Ejemplos de uso
+
+#### ✅ Ejemplo 1 – Mostrar países
+**Entrada (usuario):**
+
