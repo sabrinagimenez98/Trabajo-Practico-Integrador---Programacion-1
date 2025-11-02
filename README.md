@@ -43,10 +43,6 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 
 ---
 
-### 📁 Instrucciones de uso
-
----
-
 ### ✅ Instrucciones de uso
 
 1. **Requisitos**
