@@ -14,7 +14,7 @@ Cada país del dataset posee:
 - **Superficie (km²)**
 - **Continente**
 
-El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` utilizando diccionarios, listas y manejo de archivos con la librería `csv`.
+El sistema trabaja leyendo y escribiendo datos directamente en paises.csv utilizando diccionarios, listas y manejo de archivos con la librería csv.
 
 ---
 
