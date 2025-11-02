@@ -49,7 +49,7 @@ El sistema trabaja leyendo y escribiendo datos directamente en paises.csv utiliz
 ### 📜 Instrucciones de uso
 
 1. **Requisitos**
-   - Python **3.10+** (necesario porque se usa `match/case`)
+   - Python **3.10+** (necesario porque se usa match/case)
    - Librerías estándar de Python (no requiere instalación extra)
 
 2. **Ejecución**
