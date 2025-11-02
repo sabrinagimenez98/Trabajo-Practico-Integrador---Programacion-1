@@ -1,4 +1,4 @@
-# Trabajo Práctico Integrador – Programación 1
+# Trabajo Práctico Integrador –- Programación 1
 
 ## Gestión de Países con archivos CSV
 
