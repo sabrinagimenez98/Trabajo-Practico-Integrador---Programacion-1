@@ -43,7 +43,7 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 
 ---
 
-### ✅ Instrucciones de uso
+### 📜 Instrucciones de uso
 
 1. **Requisitos**
    - Python **3.10+** (necesario porque se usa `match/case`)
@@ -52,9 +52,9 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 2. **Ejecución**
    - Abrir la carpeta del proyecto
    - Ejecutar el archivo principal:
-     ```bash
+     
      python PRACTICA_INTEGRADO.py
-     ```
+   
    - Se mostrará un menú numérico con opciones.
 
 3. **Archivo CSV**
@@ -67,5 +67,6 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 ### 🧪 Ejemplos de uso
 
 #### ✅ Ejemplo 1 – Mostrar países
-**Entrada (usuario):**
+**Entrada (usuario): 1**
+<img width="843" height="437" alt="imagen" src="https://github.com/user-attachments/assets/0990559a-6f13-4a97-92dc-9ce45a50510c" />
 
