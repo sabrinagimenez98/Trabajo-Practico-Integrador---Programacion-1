@@ -1,4 +1,6 @@
 # 💻 Trabajo Practico Integrador - Programacion 1 💻
-## Integrantes
+## 📕 Integrantes
 - Sabrina gimenez
 - Ismael Saleme
+
+## Descripcion del programa:
