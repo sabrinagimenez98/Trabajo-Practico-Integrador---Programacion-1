@@ -62,7 +62,7 @@ El sistema trabaja leyendo y escribiendo datos directamente en paises.csv utiliz
 
 3. **Archivo CSV**
    - No es necesario crearlo manualmente.
-   - Si no existe `paises.csv`, el programa lo inicializa automáticamente.
+   - Si no existe paises.csv, el programa lo inicializa automáticamente.
    - Las modificaciones (agregar, eliminar, ordenar) quedan guardadas en el archivo.
 
 ---
