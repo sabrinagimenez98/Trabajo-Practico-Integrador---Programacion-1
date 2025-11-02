@@ -157,9 +157,10 @@ El sistema trabaja leyendo y escribiendo datos directamente en `paises.csv` util
 <img width="885" height="41" alt="imagen" src="https://github.com/user-attachments/assets/e67409f6-3ef0-4ea3-8c5e-f51d28b88d8e" />
 
 ### 👥 Participación de los integrantes
-Trabajo realizado por:
-- **(Nombre del Sabrina gimenez)** – Desarrollo del menú principal, manejo de archivos y carga/ eliminación de países y documentacion
-- **(Nombre del Ismael saleme)** – Implementación de filtros, ordenamientos y estadísticas, Testeo, validaciones y documentación.
+#### Trabajo realizado por:
+
+- **Sabrina gimenez** – Desarrollo del menú principal, manejo de archivos y carga/ eliminación de países y documentacion
+- **Ismael saleme** – Implementación de filtros, ordenamientos y estadísticas, Testeo, validaciones y documentación.
 
 
 
