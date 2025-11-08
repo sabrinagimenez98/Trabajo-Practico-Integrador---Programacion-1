@@ -4,6 +4,59 @@
 
 ### 📕 Integrantes: Sabrina gimenez e Ismael saleme
 
+### Marco teorico
+
+### Listas
+Las listas son  estructuras ordenadas y mutables ya que permiten modificar los valores de sus elementos, eliminar o añadir elementos.
+En ellas se pueden almacenar tantos elementos como se desee, incluso pueden existir listas vacías (sin elementos). Para definirlas se utilizan corchetes y se separan los elementos mediante. Ejemplo: `nombre_lista = [valor1, valor2, ...]`.
+En este trabajo las utilizamos para representar colecciones de países, poblaciones, superficies, etc.
+### Diccionarios
+Un diccionario es una colección mutable y desordenada de elementos, donde cada uno está compuesto por un par único de clave-valor. Ejemplo: mi_diccionario = {"nombre": "Alice", "edad": 25, "profesión": "Ingeniera"}
+En este trabajo fue la Estructura clave–valor nos permite acceder rápidamente a atributos de cada país y para representar registros con nombre, población, superficie y continente.
+### Funciones
+Una función es un bloque de código que realiza una tarea específica. Al usar funciones es posible dividir un problema en partes pequeñas y manejables. Se compone de:
+- Entrada (argumentos): datos que recibe la función.
+- Proceso: instrucciones que realiza.
+- Salida (retorno): resultado que devuelve.
+Son muy útiles ya que permiten reutilizar una porción de código tantas veces como sea necesario.
+La palabra reservada para definir una función es `def`. Para crearla debemos indicar un nombre para la función y establecer sus argumentos.
+La estructura que se usa para definir funciones es la siguiente:
+def nombre_funcion(nombre_argumento):
+    código a ejecutar
+    return valor_de_retorno
+Ejemplo:
+def saludar():
+    return "¡Hola! ¿Cómo estás?"
+saludo = saludar()
+print(saludo)
+Nos permite dividir el programa en bloques reutilizables, cada uno con una tarea específica. Facilitan la organización, el mantenimiento y la legibilidad del código.
+### Condicionales
+Los condicionales son estructuras de control que permiten ejecutar diferentes bloques de código dependiendo de si una condición es verdadera o falsa. La instrucción más básica para realizar una evaluación condicional es la sentencia `if`, que evalúa una expresión booleana (es decir, una expresión que puede ser verdadera o falsa) y ejecuta un bloque de código sólo si la condición se cumple. Además, se pueden usar otras estructuras como `elif` (abreviatura de "else if") y `else` para manejar diferentes casos o situaciones, ofreciendo una mayor flexibilidad en la lógica del programa. Las condicionales son fundamentales para la toma de decisiones en los programas, permitiendo que el flujo de ejecución se ajuste dinámicamente según las circunstancias.
+Ejemplo:
+if puntuación >= 90:
+   print("Excelente")
+elif puntuación >= 70:
+   print("Bueno")
+else:
+   print("Necesitas mejorar")
+Nos permiten tomar decisiones en el programa según ciertas condiciones. Se usan para validar entradas, aplicar filtros y mostrar mensajes adecuados.
+### Ordenamientos
+Los métodos de ordenamiento son algoritmos que realizan la operación de arreglar los registros de una tabla en algún orden secuencial de acuerdo a un criterio de ordenamiento. El ordenamiento se efectúa con base en el valor de algún campo en un grupo de datos. El ordenamiento puede estar dado de forma iterativa o recursiva según la naturaleza y forma de ejecución del mismo.
+Ejemplos de métodos de ordenamiento: BubbleSort, SelectionSort, InsertionSort, etc.
+Se aplican para organizar los países según criterios como nombre, población o superficie. Se utiliza sorted() con funciones key personalizadas.
+### Estadísticas básicas
+Son funciones que  calculan el promedio o el valor típico de una población o muestra.
+Los aplicamos para obtener indicadores relevantes del dataset.
+### Archivos CSV
+Los archivos CSV (Comma Separated Values) son similares a planillas: cada línea
+representa una fila, y los valores están separados por comas.
+Ejemplo de archivo productos.csv
+Formato de texto plano que permite almacenar datos estructurados. Utilizamos el módulo csv para leer y procesar los registros de países.
+
+### Flujo de operaciones principales
+
+Mapa conceptual en PDF
+
 ### 📌 Descripción del programa
 Este proyecto es una aplicación de consola escrita en Python que administra un registro de países almacenado en un archivo CSV.  
 Permite realizar tareas variadas de consulta, búsqueda, filtrado, ordenamiento y estadísticas sobre cada país, además de agregar y eliminar registros.
@@ -155,6 +208,14 @@ El sistema trabaja leyendo y escribiendo datos directamente en paises.csv utiliz
 #### ✅ Opcion 8 – Salir del programa
 
 <img width="885" height="41" alt="imagen" src="https://github.com/user-attachments/assets/e67409f6-3ef0-4ea3-8c5e-f51d28b88d8e" />
+
+### Conclusion resumida (conclusion completa en PDF)
+
+En resumen, este trabajo integrador fue una experiencia que nos permitió aplicar la mayoría de los contenidos de Programación 1 en un contexto real, desarrollar un sistema completo y fortalecer tanto nuestras habilidades técnicas como nuestras habilidades colaborativas.
+
+### Referencias
+
+Adjuntas en el PDF
 
 ### 👥 Participación de los integrantes
 #### Trabajo realizado por:
